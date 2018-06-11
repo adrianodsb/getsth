@@ -15,9 +15,11 @@ $ sudo apt-get install python-psutil
 ### Fedora:
 
 $ sudo dnf install python2-psutil    # For python 2.x
+
 $ sudo dnf install python3x-psutil   # for Python 3.x
 
 ### CentOS / RHEL
 
 $ sudo yum install python2-psutil    # For python 2.x
+
 $ sudo yum install python3x-psutil   # for Python 3.x
