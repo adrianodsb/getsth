@@ -1,5 +1,5 @@
 # getsth
-A python script for getting info about running Linux systems.
+A python script for retrieving info about your current running Linux box.
 
 ## Requirements
 The only requirement is the psutil module, which you can install using the package manager from distribution or via pip.
