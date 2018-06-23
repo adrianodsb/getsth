@@ -2,7 +2,7 @@
 A python script for retrieving info about your currently running Linux box.
 
 ## Requirements
-The only requirement is the psutil module, which you can install using the package manager from distribution or via pip.
+The only requirement is the psutil module, which you can install using the package manager from your distribution or via pip.
 
 ### Via PIP:
 
